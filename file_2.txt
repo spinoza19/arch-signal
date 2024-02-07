@@ -1,4 +1,0 @@
-# arch-signal
-Commit 3
-Date: 2024-01-28T02:59:01Z
-Fix edge case
